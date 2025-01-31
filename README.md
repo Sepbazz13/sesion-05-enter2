@@ -1,4 +1,4 @@
-# [Tu Nombre]
+# Sebastian Huapaya Sánchez
 
 ## Introducción
 Hola, soy Sebastian, un apasionado desarrollador de software con interés en desarrollo web. Me encanta aprender y crecer en el campo de la tecnología.
